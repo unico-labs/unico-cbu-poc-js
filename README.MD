@@ -10,7 +10,7 @@
   
   ### POC de implementação do SDK IDpay CBU em Javascript
   
-  <img width='350' src='https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Symbol.png'></img>
+  <img width='350' src='https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png'></img>
 </div>
 
 ## 💻 Compatibilidade
