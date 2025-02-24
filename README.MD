@@ -4,20 +4,16 @@
   </a>
 </p>
 
-<h1 align='center'>SDK Iframe</h1>
+<h1 align='center'>SDK CBU ( Cadastro By Unico)</h1>
 
 <div align='center'>
   
-  ### POC de implementação do SDK IDpay CBU em React
+  ### POC de implementação do SDK IDpay CBU em Javascript
   
-  <img width='350' src='https://quintagroup.com/cms/js/js-image/react.js-logo.png/@@images/a9bf22bd-373a-4fae-a900-c22fd12c87c7.png'></img>
+  <img width='350' src='https://e7.pngegg.com/pngimages/640/199/png-clipart-javascript-logo-html-javascript-logo-angle-text-thumbnail.png'></img>
 </div>
 
 ## 💻 Compatibilidade
-
-### Versões mínimas
-
-- React 16
 
 ### Dispositivos compatíveis
 
@@ -30,16 +26,11 @@ Para utilizar o by Unico por meio do SDK do by Unico, o primeiro passo é cadast
 
 Sinalize o responsável pelo seu projeto de integração ou o time de suporte da Unico para realizar essa configuração.
 
-Para começar a usar o SDK, é necessário realizar a instalação do SDK Web da Unico. Vale destacar que o "by Unico" utiliza o mesmo SDK empregado no IDPay.:
-```javascript
-$ npm install idpay-b2b-sdk ou no caso dessa POC apenas o npm install
-```
-
 Para conseguir executa-la é necessario ter uma conta de servico na Unico e um ambiente de testes cadastrado pelo seu gerente de projetos para que voce consiga criar um processo, após isso ao criar um processo voce irá recebe um ID de processo e um Token no response.
 
 Com essas informacoes voce deve passar dentro dos métodos Init e Open conforme abaixo e depois executar o npm start para iniciar a POC.
 
-Feito isso deve criar no botao de Init para iniciar a autenticacao e depois no Open para abrir o processo e inciar o fluxo By Unico.
+Feito isso deve criar no botao de Init para iniciar a autenticacao e depois no Open para abrir o processo e iniciar o fluxo By Unico.
 
 
 ## ✨ Metodos disponiveis
