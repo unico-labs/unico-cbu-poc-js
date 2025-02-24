@@ -8,7 +8,7 @@
 
 <div align='center'>
   
-  ### POC de implementação do SDK IDpay CBU em Javascript
+  ### POC de implementação do SDK CBU em Javascript
   
   <img width='350' src='https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png'></img>
 </div>
