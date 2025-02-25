@@ -28,7 +28,12 @@ Sinalize o responsável pelo seu projeto de integração ou o time de suporte da
 
 Para conseguir executa-la é necessario ter uma conta de servico na Unico e um ambiente de testes cadastrado pelo seu gerente de projetos para que voce consiga criar um processo, após isso ao criar um processo voce irá recebe um ID de processo e um Token no response.
 
-Com essas informacoes voce deve passar dentro dos métodos Init e Open conforme abaixo e depois executar o npm start para iniciar a POC.
+Com essas informacoes voce deve passar dentro dos métodos Init e Open conforme abaixo e depois executar o:
+
+```javascript
+http-server 
+```
+para iniciar a POC ou inserir dentro dos campos de input via tela.
 
 Feito isso deve criar no botao de Init para iniciar a autenticacao e depois no Open para abrir o processo e iniciar o fluxo By Unico.
 
